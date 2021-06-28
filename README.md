@@ -1,1 +1,1 @@
-### mips Euclidean algorithm
+mips Euclidean algorithm
